@@ -45,3 +45,17 @@ body {
 .navbar-inverse {
 	background-color: #512DA8;
 }
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.radio-space {
+		margin: 0 10px 0 10px;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
